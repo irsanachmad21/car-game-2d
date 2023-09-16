@@ -1,0 +1,18 @@
+Nama Anggota Kelompok : 
+Arlan Fadhilah  (43A87006210185)
+Irsan Achmad Maulidan (43A87006210144)
+
+Kelas :
+S1/TI/03/A/P
+
+Mata Kuliah :
+Pemrograman 1
+
+Skenario Game :
+1. ada sebuah mobil berwarna merah
+2. tugas mobil merah ini adalah mengumpulkan koin sebanyak-banyaknya
+3. lalu ada juga mobil ambulan
+4. jika mobil merah berhasil mendapatkan koin, maka score akan bertambah 10
+   untuk setiap koin yang didapat
+5. namun jika mobil merah mengenai ambulan maka akan berhenti dan menampilkan
+   score dari jumlah koin yang didapat

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=pendukung
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ end()
+comment3.params=i
+comment3.target=void\ checkDouble(greenfoot.Actor)
+comment4.params=speed
+comment4.target=void\ move(int)
+numComments=5
